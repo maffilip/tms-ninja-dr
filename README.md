@@ -74,7 +74,7 @@ SOFTWARE.``
 > Await 5-10s for the user to be disabled and a confirmation will be shown in the text area.
 
 # License
-- MIT
+[MIT](https://raw.githubusercontent.com/voidthevillain/tms-ninja-dr/main/LICENSE)
 
 # Author
 Mihai Filip (voidthevillain)
